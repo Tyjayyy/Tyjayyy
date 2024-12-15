@@ -47,6 +47,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://traininglog.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/-traininglog.com.br-FF5733?style=for-the-badge&logo=internet-explorer&logoColor=white">
+  </a>
+</p>
+
 ---
 
 <h2 align="center">🌟 Conecte-se Comigo</h2>
