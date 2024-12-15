@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou [Ryan! 👋</h1>
+<h1 align="center">Oi, eu sou Ryan! 👋</h1>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/placeholder-image.jpg" alt="Banner de apresentação" width="800px">
@@ -39,17 +39,11 @@
   <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" alt="Google Ads">
 </p>
 
-<h2 align="center">📱 Projetos em Destaque</h2>
+<h2 align="center">📱 Projeto em Destaque</h2>
 
 <p align="center">
-  <a href="https://github.com/seu-usuario/projeto1" target="_blank">
-    <img src="https://img.shields.io/badge/-Projeto_1-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-  </a>
-  <a href="https://github.com/seu-usuario/projeto2" target="_blank">
-    <img src="https://img.shields.io/badge/-Projeto_2-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white">
-  </a>
-  <a href="https://github.com/seu-usuario/projeto3" target="_blank">
-    <img src="https://img.shields.io/badge/-Projeto_3-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <a href="https://github.com/Hugov70/TrainingLog" target="_blank">
+    <img src="[https://img.shields.io/badge/-Projeto_1-61DAFB?style=for-the-badge&logo=react&logoColor=white](https://img.shields.io/badge/-Training_Log-61DAFB?style=for-the-badge&logo=react&logoColor=black)">
   </a>
 </p>
 
@@ -58,7 +52,7 @@
 <h2 align="center">🌟 Conecte-se Comigo</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-usuario/" target="_blank">
+  <a href="https://www.linkedin.com/in/ryan-nascimento-00682b187/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:ryanrocha784@gmail.com" target="_blank">
