@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou [Seu Nome]! 👋</h1>
+<h1 align="center">Oi, eu sou Ryan! 👋</h1>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/placeholder-image.jpg" alt="Banner de apresentação" width="800px">
@@ -12,6 +12,10 @@
   Desenvolvedor Front-End apaixonado por criar interfaces modernas e funcionais! Com experiência sólida em <strong>React</strong> e <strong>React Native</strong>, crio soluções que encantam os usuários, sejam elas para web ou mobile. 🚀
 </p>
 
+<p align="center">
+  Além disso, tenho vasta experiência no universo do <strong>dropshipping</strong>, incluindo a criação de lojas em plataformas como <strong>Shopify</strong> e <strong>WordPress</strong>, e na configuração de campanhas de anúncios eficazes. 📦💡
+</p>
+
 ---
 
 <h2 align="center">🚀 Tecnologias e Ferramentas</h2>
@@ -23,6 +27,10 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+  <img src="https://img.shields.io/badge/Facebook_Ads-4267B2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Ads">
+  <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" alt="Google Ads">
 </p>
 
 ---
