@@ -33,17 +33,6 @@
   <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" alt="Google Ads">
 </p>
 
----
-
-<h2 align="center">📈 Estatísticas do GitHub</h2>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tyjayyy&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tyjayyy&layout=compact&langs_count=7&theme=radical"/>
-</p>
-
----
-
 <h2 align="center">📱 Projetos em Destaque</h2>
 
 <p align="center">
@@ -66,10 +55,10 @@
   <a href="https://www.linkedin.com/in/seu-usuario/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:seu-email@example.com" target="_blank">
+  <a href="mailto:ryanrocha784@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://github.com/seu-usuario" target="_blank">
+  <a href="https://github.com/Tyjayyy" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
