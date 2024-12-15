@@ -43,7 +43,7 @@
 
 <p align="center">
   <a href="https://github.com/Hugov70/TrainingLog" target="_blank">
-    <img src="[https://img.shields.io/badge/-Projeto_1-61DAFB?style=for-the-badge&logo=react&logoColor=white](https://img.shields.io/badge/-Training_Log-61DAFB?style=for-the-badge&logo=react&logoColor=black)">
+    <img src="https://img.shields.io/badge/-Training_Log-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   </a>
 </p>
 
