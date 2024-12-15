@@ -1,7 +1,7 @@
 <h1 align="center">Oi, eu sou Ryan! 👋</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder-image.jpg" alt="Banner de apresentação" width="800px">
+  <img src="https://via.placeholder.com/800x300?text=Bem-vindo+ao+meu+perfil!+%F0%9F%91%8B" alt="Bem-vindo ao meu perfil!" width="800px">
 </p>
 
 ---
