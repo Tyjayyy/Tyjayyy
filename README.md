@@ -1,14 +1,9 @@
 <h1 align="center">Oi, eu sou Ryan! 👋</h1>
 
 <p align="center">
-  <a href="#">
-    <img 
-      src="https://via.placeholder.com/800x300?text=Seja+Bem-vindo+%F0%9F%8E%89" 
-      alt="Seja Bem-vindo ao meu perfil!"
-      style="animation: fadeIn 2s ease-in-out infinite alternate; border-radius: 10px;"
-      width="800px"
-    >
-  </a>
+  <span style="display: inline-block; width: 800px; height: 300px; background: linear-gradient(270deg, #ff7eb3, #ff758c, #ffcd7e, #8ae9ff, #a777ff); background-size: 150% 150%; animation: gradientAnimation 6s ease infinite; border-radius: 10px; text-align: center; line-height: 300px; color: white; font-size: 30px; font-weight: bold;">
+    Seja Bem-vindo ao meu Perfil! 🎉
+  </span>
 </p>
 
 ---
@@ -81,8 +76,9 @@
 <p align="center">✨ Obrigado por visitar o meu perfil! ✨</p>
 
 <style>
-  @keyframes fadeIn {
-    0% { opacity: 0.5; transform: scale(0.98); }
-    100% { opacity: 1; transform: scale(1); }
+  @keyframes gradientAnimation {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
   }
 </style>
