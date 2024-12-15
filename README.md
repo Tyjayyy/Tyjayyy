@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou Ryan! 👋</h1>
+<h1 align="center">Oi, eu sou [Ryan! 👋</h1>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/placeholder-image.jpg" alt="Banner de apresentação" width="800px">
@@ -16,6 +16,10 @@
   Além disso, tenho vasta experiência no universo do <strong>dropshipping</strong>, incluindo a criação de lojas em plataformas como <strong>Shopify</strong> e <strong>WordPress</strong>, e na configuração de campanhas de anúncios eficazes. 📦💡
 </p>
 
+<p align="center">
+  Também possuo experiência básica no desenvolvimento de programas em <strong>.NET</strong> e na criação de aplicativos usando o <strong>Android Studio</strong>, o que complementa meu conjunto de habilidades como desenvolvedor.
+</p>
+
 ---
 
 <h2 align="center">🚀 Tecnologias e Ferramentas</h2>
@@ -26,6 +30,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
