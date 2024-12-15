@@ -1,7 +1,14 @@
 <h1 align="center">Oi, eu sou Ryan! 👋</h1>
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x300?text=Bem-vindo+ao+meu+perfil!+%F0%9F%91%8B" alt="Bem-vindo ao meu perfil!" width="800px">
+  <a href="#">
+    <img 
+      src="https://via.placeholder.com/800x300?text=Seja+Bem-vindo+%F0%9F%8E%89" 
+      alt="Seja Bem-vindo ao meu perfil!"
+      style="animation: fadeIn 2s ease-in-out infinite alternate; border-radius: 10px;"
+      width="800px"
+    >
+  </a>
 </p>
 
 ---
@@ -72,3 +79,10 @@
 ---
 
 <p align="center">✨ Obrigado por visitar o meu perfil! ✨</p>
+
+<style>
+  @keyframes fadeIn {
+    0% { opacity: 0.5; transform: scale(0.98); }
+    100% { opacity: 1; transform: scale(1); }
+  }
+</style>
