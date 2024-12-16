@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <!-- Gradiente Animado -->
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff7eb3">
+        <animate attributeName="stop-color" values="#ff7eb3; #8ae9ff; #a777ff; #ff7eb3" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#8ae9ff">
+        <animate attributeName="stop-color" values="#8ae9ff; #a777ff; #ff7eb3; #8ae9ff" dur="6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Fundo com Gradiente -->
+  <rect width="800" height="300" fill="url(#gradient)" />
+
+  <!-- Texto com Fonte Personalizada -->
+  <text x="50%" y="50%" text-anchor="middle" fill="white" font-size="50px" font-family="'Pacifico', cursive" dy=".3em">
+    Bem-vindo ao meu Perfil! 🎉
+  </text>
+
+  <!-- Importando Google Fonts -->
+  <style>
+    <![CDATA[
+      @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+    ]]>
+  </style>
+</svg>
