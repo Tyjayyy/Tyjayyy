@@ -1,9 +1,6 @@
 <h1 align="center">Oi, eu sou Ryan! 👋</h1>
 
 <p align="center">
-  <span style="display: inline-block; width: 800px; height: 300px; background: linear-gradient(270deg, #ff7eb3, #ff758c, #ffcd7e, #8ae9ff, #a777ff); background-size: 150% 150%; animation: gradientAnimation 6s ease infinite; border-radius: 10px; text-align: center; line-height: 300px; color: white; font-size: 30px; font-weight: bold;">
-    Seja Bem-vindo ao meu Perfil! 🎉
-  </span>
   <img src="https://raw.githubusercontent.com/Tyjayyy/Tyjayyy/main/banner.svg" alt="Bem-vindo ao meu perfil!" width="800px" />
 </p>
 
