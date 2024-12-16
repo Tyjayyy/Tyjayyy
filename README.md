@@ -1,7 +1,7 @@
 <h1 align="center">Oi, eu sou Ryan! 👋</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tyjayyy/Tyjayyy/main/banner.svg" alt="Bem-vindo ao meu perfil!" width="800px" />
+  <img src="https://raw.githubusercontent.com/Tyjayy/Tyjayyy/main/banner.svg" alt="Bem-vindo ao meu perfil!" width="800px" />
 </p>
 
 ---
